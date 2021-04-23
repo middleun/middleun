@@ -14,5 +14,10 @@
 
 ![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=gradient&color=1f2b6c&height=200)
 
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=middleun)
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=middleun&repo=DB-project&theme=solarized-light)
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=middleun&repo=API-project&theme=solarized-light)
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=middleun&repo=Renewal-Project&theme=solarized-light)
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=middleun&repo=My-Schedule-Project&theme=solarized-light)
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=middleun&repo=Portfolio-project&theme=solarized-light)
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=middleun&repo=web-planning_fullants&theme=solarized-light)
 
