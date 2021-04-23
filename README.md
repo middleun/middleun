@@ -3,13 +3,13 @@
 
 <p align="center">
   
-  <img src="https://github-readme-stats.vercel.app/api?username=middleun&theme=midnight-purple&show_icons=true&hide=issues,contribs">
+  <img src="https://github-readme-stats.vercel.app/api?username=middleun&repo=github-readme-stats&theme=midnight-purple&show_icons=true&hide=issues,contribs">
 </p>  
 
 <p align="center">
 
 <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=middleun&layout=compact">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=middleun&layout=compact&theme=midnight-purple">
 </p>  
 
 
