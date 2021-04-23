@@ -12,5 +12,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=middleun&layout=compact&theme=midnight-purple">
 </p>  
 
-
 ![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=gradient&color=1f2b6c&height=200)
+
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=middleun)
+
