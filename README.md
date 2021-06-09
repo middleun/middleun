@@ -2,7 +2,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=1f2b6c&height=200&text=LEEJUNGEUN&fontColor=fff&animation=fadeIn)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=middleun&repo=github-readme-stats&theme=tokyonight&show_icons=true&?count_private=true&?include_all_commits=true">
+  <img src="https://github-readme-stats.vercel.app/api?username=middleun&theme=tokyonight&show_icons=true&?count_private=true&?include_all_commits=true&hide=prs,contribs">
 </p>  
 
 <p align="center">
