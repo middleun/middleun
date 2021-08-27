@@ -1,5 +1,5 @@
 
-![header](https://capsule-render.vercel.app/api?type=transparent&height=200&text=🏷️LEEJUNGEUN&fontColor=auto&fontAlign=55&animation=fadeIn&desc=do%20the%20next%20right%20thing&descAlign=73&descAlignY=70)
+![header](https://capsule-render.vercel.app/api?type=transparent&height=200&text=🏷️LEEJUNGEUN&fontColor=auto&fontAlign=50&animation=fadeIn&desc=do%20the%20next%20right%20thing&descAlign=65&descAlignY=70)
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=middleun&theme=tokyonight&show_icons=true&?count_private=true&?include_all_commits=true&hide=prs,contribs">
